@@ -13,7 +13,6 @@ Enhance your Oracle APEX applications with a feature-rich dual-calendar **item p
 - 🎨 **Modernized UI**  
   Redesigned to match the **Universal Theme** of Oracle APEX for a cohesive look and feel.
 
----
 ### Date Format Rule
 - **Do not define a date format** at the item level.  
   The plugin handles formatting internally using APEX's standards.
