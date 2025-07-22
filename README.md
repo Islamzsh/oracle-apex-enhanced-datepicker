@@ -14,11 +14,11 @@ Enhance your Oracle APEX applications with a feature-rich dual-calendar **item p
   Redesigned to match the **Universal Theme** of Oracle APEX for a cohesive look and feel.
 
 ---
-### ❗ Date Format Rule
+### Date Format Rule
 - **Do not define a date format** at the item level.  
   The plugin handles formatting internally using APEX's standards.
 
-### 🌍 Language Detection
+### Language Detection
 - Language is determined by the `:FSP_LANGUAGE_PREFERENCE` bind variable.
 - You can modify this in the plugin source at **line 53**:
   
